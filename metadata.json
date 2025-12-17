@@ -1,0 +1,5 @@
+{
+  "name": "ComicRewriter AI",
+  "description": "A professional tool for comic scanlation groups to automatically OCR and rewrite dialogue from Manga, Manhwa, and Manhua using Gemini 2.5 Flash. Supports folder structures, intelligent chapter sorting, and SFX filtering.",
+  "requestFramePermissions": []
+}
